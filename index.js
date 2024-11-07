@@ -249,11 +249,11 @@ module.exports = {
     'comment-whitespace-inside': 'always',
 
 
-		// ------------------------------------------------------ Stylistic
+    // ------------------------------------------------------ Stylistic
 
-		/*
-			* Stylistic Rules Reference: https://github.com/stylelint-stylistic/stylelint-stylistic/blob/main/docs/user-guide/rules.md
-		*/
+    /*
+      * Stylistic Rules Reference: https://github.com/stylelint-stylistic/stylelint-stylistic/blob/main/docs/user-guide/rules.md
+    */
 
     // Selector
     '@stylistic/selector-max-empty-lines': 0,
@@ -523,5 +523,4 @@ module.exports = {
       order: 'flexible',
     },
   },
-
 };
