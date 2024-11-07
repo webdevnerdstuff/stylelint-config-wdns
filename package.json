@@ -1,0 +1,36 @@
+{
+  "name": "@wdns/stylelint-config-wdns",
+  "version": "0.0.0",
+  "description": "Custom shareable SCSS config for Stylelint",
+  "author": "WebDevNerdStuff & Bunnies... lots and lots of bunnies! <webdevnerdstuff@gmail.com> (https://webdevnerdstuff.com)",
+  "main": "index.js",
+  "files": [
+    "index.js"
+  ],
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "stylelint",
+    "stylelint-config",
+    "standard",
+    "scss",
+    "webdevnerdstuff",
+    "wdns"
+  ],
+  "license": "ISC",
+  "dependencies": {
+    "@stylistic/stylelint-plugin": "^3.1.1",
+    "stylelint-config-recommended-scss": "^14.1.0",
+    "stylelint-config-standard": "^36.0.1",
+    "stylelint-order": "^6.0.4",
+    "stylelint-scss": "^6.8.1"
+  },
+  "devDependencies": {
+    "stylelint": "^16.10.0"
+  },
+  "peerDependencies": {
+    "postcss": "^8.3.3",
+    "stylelint": "^16.9.0"
+  }
+}
