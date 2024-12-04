@@ -356,7 +356,7 @@ module.exports = {
     '@stylistic/at-rule-semicolon-space-before': 'never',
 
     // General / Sheet
-    '@stylistic/indentation': 2,
+    '@stylistic/indentation': 'tab',
     '@stylistic/linebreaks': 'unix',
     '@stylistic/max-empty-lines': 2,
     '@stylistic/max-line-length': null,
