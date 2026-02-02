@@ -399,8 +399,8 @@ module.exports = {
 
     // @-import
     'scss/at-import-partial-extension': null,
-    'scss/at-import-partial-extension-blacklist': null,
-    'scss/at-import-partial-extension-whitelist': null,
+    'scss/at-import-partial-extension-disallowed-list': null,
+    'scss/at-import-partial-extension-allowed-list': null,
 
     // @-mixin
     'scss/at-mixin-argumentless-call-parentheses': null,
