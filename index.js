@@ -398,7 +398,6 @@ module.exports = {
     'scss/at-if-no-null': true,
 
     // @-import
-    'scss/at-import-partial-extension': null,
     'scss/at-import-partial-extension-disallowed-list': null,
     'scss/at-import-partial-extension-allowed-list': null,
 
